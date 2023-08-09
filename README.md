@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **neehanneel1@outlook.com**
 
-- ⚡ Fun fact **I'm also professional writer, editor & gamer.**
+- ⚡ Fun fact **I'm also a professional writer, editor & gamer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
