@@ -5,7 +5,7 @@
 
 **About Me**
 
-Currently engaged with E Corp, I’m a curious and driven individual actively expanding my skill set in photography and videography. With a solid foundation in coding, I’m always open to insightful discussions and collaborations in technology and development.
+Currently engaged with **E Corp**. I’m a curious and driven individual actively expanding my skill set in photography and videography. With a solid foundation in coding, I’m always open to insightful discussions and collaborations in technology and development.
 
 **What I Do**
 
