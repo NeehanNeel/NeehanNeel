@@ -5,16 +5,25 @@
 
 <p align="left"> <a href="https://twitter.com/neehanneele" target="blank"><img src="https://img.shields.io/twitter/follow/neehanneele?logo=twitter&style=for-the-badge" alt="neehanneele" /></a> </p>
 
-- 🔭 I’m currently working on **E Corp.**
+**About Me**
 
-- 🌱 I’m currently learning **photography & videography skills.**
+Currently engaged with E Corp, I’m a curious and driven individual actively expanding my skill set in photography and videography. With a solid foundation in coding, I’m always open to insightful discussions and collaborations in technology and development.
 
-- 💬 Ask me about **Coding.**
+**What I Do**
 
-- 📫 How to reach me **neehanneel1@outlook.com**
+Conduct academic research and pursue continuous learning
 
-- ⚡ Fun fact **I'm also a professional writer, editor & gamer.**
+Practice and develop skills in creative media
 
+Write articles and essays on various topics
+
+Enjoy gaming as a way to relax and stay sharp
+
+Efficient at multitasking and managing diverse responsibilities
+
+**Let’s Connect**
+
+Email: neehanneel1@outlook.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/neehanneele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neehanneel1" height="30" width="40" /></a>
