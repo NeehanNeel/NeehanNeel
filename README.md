@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/neehanneel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neehanneel1" height="30" width="40" /></a>
+<a href="https://twitter.com/neehanneele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neehanneel1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/neehan-neel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neehan-neel" height="30" width="40" /></a>
-<a href="https://instagram.com/neehanneel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neehanneel1" height="30" width="40" /></a>
+<a href="https://instagram.com/neehanneele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neehanneel1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/pro coder e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pro coder e" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/c3EXUFJHpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/c3EXUFJHpt" height="30" width="40" /></a>
 </p>
