@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neehanneel&label=Profile%20views&color=0e75b6&style=flat" alt="neehanneel" /> </p>
 
-<p align="left"> <a href="https://twitter.com/neehanneele" target="blank"><img src="https://img.shields.io/twitter/follow/neehanneel1?logo=twitter&style=for-the-badge" alt="neehanneel1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/neehanneele" target="blank"><img src="https://img.shields.io/twitter/follow/neehanneel1?logo=twitter&style=for-the-badge" alt="neehanneele" /></a> </p>
 
 - 🔭 I’m currently working on **E Corp.**
 
