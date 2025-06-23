@@ -1,4 +1,3 @@
-![MasterHead](https://camo.githubusercontent.com/e2ab69d5a806b80711a92cd080b85bd4a71f014be76314170853caa52ebbb368/68747470733a2f2f7468656163656d616b6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f636f7573746f6d2d7765622e676966)
 <h1 align="center">Hi 👋, I'm Neehan Neel</h1>
 <h3 align="center">A coding master and skilled developer from Black Hole.</h3>
 
@@ -19,9 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/neehanneele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neehanneel1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/neehan-neel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neehan-neel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neehan-neel-532695248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neehan-neel" height="30" width="40" /></a>
 <a href="https://instagram.com/neehanneele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neehanneel1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pro coder e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pro coder e" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/c3EXUFJHpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/c3EXUFJHpt" height="30" width="40" /></a>
 </p>
 
