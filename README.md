@@ -1,6 +1,8 @@
 <h1 align="center">Hey, I'm Neehan Neel</h1>
 <h3 align="center">A coding master and skilled developer from Black Hole.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neehanneel&label=Profile%20views&color=0e75b6&style=flat" alt="neehanneel" /> </p>
+
 **About Me**
 
 Currently engaged with E Corp, I’m a curious and driven individual actively expanding my skill set in photography and videography. With a solid foundation in coding, I’m always open to insightful discussions and collaborations in technology and development.
@@ -20,8 +22,6 @@ Currently engaged with E Corp, I’m a curious and driven individual actively ex
 **Let’s Connect**
 
 Email: neehanneel1@outlook.com
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neehanneel&label=Profile%20views&color=0e75b6&style=flat" alt="neehanneel" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
