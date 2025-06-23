@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neehan Neel</h1>
+<h1 align="center">Hey, I'm Neehan Neel</h1>
 <h3 align="center">A coding master and skilled developer from Black Hole.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neehanneel&label=Profile%20views&color=0e75b6&style=flat" alt="neehanneel" /> </p>
@@ -11,15 +11,15 @@ Currently engaged with E Corp, I’m a curious and driven individual actively ex
 
 **What I Do**
 
-Conduct academic research and pursue continuous learning
+• Conduct academic research and pursue continuous learning
 
-Practice and develop skills in creative media
+• Practice and develop skills in creative media
 
-Write articles and essays on various topics
+• Write articles and essays on various topics
 
-Enjoy gaming as a way to relax and stay sharp
+• Enjoy gaming as a way to relax and stay sharp
 
-Efficient at multitasking and managing diverse responsibilities
+• Efficient at multitasking and managing diverse responsibilities
 
 **Let’s Connect**
 
